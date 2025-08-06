@@ -1,0 +1,3 @@
+[submodule "themes/nightfolio"]
+	path = themes/nightfolio
+	url = https://github.com/MaitreWaff/NightFolio

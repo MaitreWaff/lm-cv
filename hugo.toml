@@ -1,0 +1,11 @@
+baseURL      = "https://example.org/"
+languageCode = "en-us"
+title        = "LM WAFFO M - CV"
+theme        = "NightFolio"
+minVersion   = "0.115.0"
+
+[params]
+  description = "CV Luc Mathurin WAFFO M."
+
+[outputs]
+  home = ["HTML"]
