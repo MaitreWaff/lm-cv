@@ -14,10 +14,9 @@ experience:
       location: Lyon, FR
       period: Jan 2024 - Present
       items:
-          - Led a team of 5 developers to rebuild the company's flagship product using React and Node.js, resulting in a 40% performance improvement
-          - Architected and implemented a microservices infrastructure on AWS, reducing server costs by 30%
-          - Mentored junior developers through code reviews and pair programming sessions
-          - Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 60%
+          - Drafting of Technical Architecture Documents (DAT) for various IT applications
+          - Participation in various architecture committees
+          - Periodic reporting of activities and monitoring of indicators
     - title: IT Consultant
       company: ITS Group
       location: Lyon, FR
@@ -25,9 +24,9 @@ experience:
       items:
           - Respond to client assignment needs
           - Report activity to the client and employer
-          - Participate in team activities
+          - Participate in Cyber team activities
     - title: Infrastructure and Systems Platform Architect
-      company: SABC Groupo
+      company: SABC Group
       location: Douala, CM
       period: Dec 2021 - Jan 2024
       items:
@@ -178,10 +177,10 @@ certifications:
       issuer: Cloud Native Computing Foundation
       year: "2020"
 projects:
-    - title: E-commerce Platform
-      description: Developed a full-stack e-commerce platform with React, Node.js, and MongoDB. Implemented payment processing with Stripe API and inventory management system.
-    - title: Task Management App
-      description: Created a collaborative task management application using Vue.js and Firebase. Features include real-time updates, role-based access control, and analytics dashboard.
+    - title: QR Wedding Card
+      description: This code allows you to generate on the fly, QR code for your guess with all details needed to direct them to the rigth place (table) during an event.
+    - title: Online CV
+      description: Keeping a version of your CV in markdown.
 metrics:
     - label: Performance Improvement
       value: 40%
